@@ -2,7 +2,7 @@ import React from "react";
 import {
   ScrollVelocityContainer,
   ScrollVelocityRow,
-} from "@/components/magicui/scroll-based-velocity.jsx";
+} from "@/Components/magicui/scroll-based-velocity.jsx";
 
 const LOGOS_ROW_A = [
   "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
