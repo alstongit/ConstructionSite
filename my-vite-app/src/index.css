@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.container-pin {
+  position: relative;
+  width: 100%;
+}
+
+.line-wrapper {
+  overflow: hidden;
+}
+
+.panel {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  box-sizing: border-box;
+  padding: 10px;
+  background: transparent;
+  z-index: 1;
+}
